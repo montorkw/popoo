@@ -1,0 +1,56 @@
+/* CSS Document */
+	select option.strong{
+		font-size:32px;
+		color:mediumvioletred;
+	}
+	h1.g{
+		font-size:99px;
+		color: rgba(40,78,234,1.00);
+		font-family:"隶书";
+		font-style:italic;
+	
+	}
+h1.s{
+		font-size:90px;
+		color:indianred;
+		font-family:"隶书";
+		font-style:italic;
+	background: rgba(135,175,236,1.00);
+	width: 800px;
+	    
+		
+	
+	}
+	h1.a{
+		font-size:90px;
+		color:indianred;
+		font-family:"隶书";
+		font-style:italic;
+		background: rgba(135,175,236,1.00);
+	width: 800px;
+	    
+	
+	
+	}
+	table tr td a{
+		text-decoration: none;
+		font-size:50px;
+		font-family:"宋体";
+		font-weight:bold;
+		text-align:right;
+	}
+
+	
+    ul li a{text-decoration: none;
+		font-size:50px;
+		font-family:"隶书";
+		font-weight:bold;
+		color: rgba(166,44,46,1.00);
+		
+	}
+table tr td a:active{color: aqua;}
+	table tr td a:hover{color: #85C5E1;}
+	table tr td a:visited{color: #73DD94;}
+table.z{
+	background-image:url("file:///C|/Users/小懒/AppData/Local/Temp/k52zip/{C82D5E72-7BF5-4B26-86A7-FE54E56FB084}/QQtree.jpg");
+}
